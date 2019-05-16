@@ -1,0 +1,20 @@
+volume = 26000 notes
+2m33 - shaker
+4m7 - inserting
+
+volume = 10000
+0m35 - shaker
+0m21 - inserting
+
+
+volume = 5000 
+0m5 - shaker
+0m8 - inserting
+
+volume = 1000
+0m0.3 - shaker
+0m0.2 - inserting 
+
+volume = 15000
+0m50 - shaker
+1.18 - inserting

@@ -1,0 +1,45 @@
+Ивченко Г.И., Медведев Ю.И., Чистяков В.П. Сборник задач по
+математической статистике.Ивченко Г.И., Медведев Ю.И., Чистяков В.П. Сборник задач по
+математической статистике.
+	OneNote operator<(const OneNote& O){
+		OneNote note;
+		if((this.FIO < O.FIO) && (this.nameOfStreet < O.nameOfStreet) &&(this.nOfBuilding < O.nOfBuilding) && (this.nOfAppartament < O.nOfAppartament)){
+			return true;
+}
+		else{
+			return false;
+		}
+	}
+
+    OneNote operator>(const OneNote& O){
+            OneNote note;
+            if((this.FIO > O.FIO) && (this.nameOfStreet > O.nameOfStreet) &&(this.nOfBuilding > O.nOfBuilding) && (this.nOfAppartament > O.nOfAppartament)){
+                return true;
+    }
+            else{
+                return false;
+            }
+        }
+    OneNote operator>=(const OneNote& O){
+            OneNote note;
+            if((this.FIO >= O.FIO) && (this.nameOfStreet >= O.nameOfStreet) &&(this.nOfBuilding >= O.nOfBuilding) && (this.nOfAppartament >= O.nOfAppartament)){
+                return true;
+    }
+            else{
+                return false;
+            }
+        }
+
+    OneNote operator<=(const OneNote& O){
+            OneNote note;
+            if((this.FIO <= O.FIO) && (this.nameOfStreet <= O.nameOfStreet) &&(this.nOfBuilding <= O.nOfBuilding) && (this.nOfAppartament <= O.nOfAppartament)){
+                return true;
+    }
+            else{
+                return false;
+            }
+        }
+
+
+
+

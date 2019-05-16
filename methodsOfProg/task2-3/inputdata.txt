@@ -1,0 +1,7 @@
+APupa Ivan Ivanov, Pupova, 1, 111, 11.11.1111
+BPupa Ivan Ivanov, Pupova, 1, 111, 11.11.1111
+APupa Ivan Ivanov, Pupova, 1, 111, 11.11.1111
+Matveev ROman Sergeevich, Davidova, 1, 1135, 11.08.1998
+Matveev Roman Sergeevich, Davidova, 1, 1135, 11.08.1998
+APupa Ivan Ivanov, Pupova, 1, 111, 11.11.1111
+BLupa Ivan Ivanov, Lupova, 2,222,12.12.1222
